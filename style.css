@@ -1,0 +1,21 @@
+div {
+    display: flex;
+    /* background-color: blue; */
+    /* width: 400px; */
+    /* height: 400px; */
+    /* justify-content: space-around; */
+}
+
+img {
+    /* display: block; */
+    margin: auto;
+    /* justify-content: space-around; */
+    /* display: inline-block; */
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /* justify-content: space-around; */
+}
