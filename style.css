@@ -19,3 +19,11 @@ img {
     background-color: blue;
     /* justify-content: space-around; */
 }
+
+a:visited {
+    color: green;
+}
+
+a:link {
+    color: red;
+}
